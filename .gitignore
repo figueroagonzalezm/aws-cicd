@@ -1,0 +1,21 @@
+# --- Compilación de Java ---
+*.class
+*.log
+
+# --- Directorio de Construcción de Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# --- Archivos de Configuración de IntelliJ IDEA ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db
